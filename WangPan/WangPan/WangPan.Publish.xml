@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\发布\PanSo" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Css/baidu.css" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Scripts/jquery.validate-vsdoc.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Css/bootstrap.min.css" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Scripts/modernizr-2.6.2.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="bin/URLRewriter.dll" publishTime="05/12/2016 22:38:57" />
+    <file relUrl="bin/WangPan.dll" publishTime="05/12/2016 23:41:45" />
+    <file relUrl="Scripts/respond.min.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Css/Site.css" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Scripts/jquery.validate.min.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="bin/WangPan.pdb" publishTime="05/12/2016 23:41:44" />
+    <file relUrl="Css/clip.css" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Scripts/respond.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Scripts/jquery.validate.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="bin/CommonTool.pdb" publishTime="05/12/2016 22:38:57" />
+    <file relUrl="Css/hashbt.css" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="05/12/2016 22:22:58" />
+    <file relUrl="Scripts/jquery.validate.unobtrusive.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Css/bootstrap.css" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="dll/Newtonsoft.Json.dll" publishTime="05/12/2016 22:22:58" />
+    <file relUrl="Scripts/jquery-1.10.2.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Scripts/jquery-1.10.2.min.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Web.config" publishTime="05/12/2016 23:32:45" />
+    <file relUrl="Scripts/jquery-1.10.2.intellisense.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Index.aspx" publishTime="05/12/2016 23:47:10" />
+    <file relUrl="Scripts/_references.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="bin/CommonTool.dll" publishTime="05/12/2016 22:38:57" />
+    <file relUrl="Scripts/bootstrap.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="bin/URLRewriter.pdb" publishTime="05/12/2016 22:38:57" />
+    <file relUrl="Search.aspx" publishTime="05/12/2016 23:44:33" />
+    <file relUrl="Scripts/jquery.validate.unobtrusive.min.js" publishTime="05/12/2016 22:24:05" />
+    <file relUrl="Scripts/bootstrap.min.js" publishTime="05/12/2016 22:24:05" />
+  </publishProfile>
+</publishData>
